@@ -103,12 +103,11 @@ plt.show()
 
 ```
 # Output Waveform
-```
+
 <img width="761" height="609" alt="image" src="https://github.com/user-attachments/assets/b9918680-c158-46a8-b97c-08d32147722a" />
 
 <img width="668" height="610" alt="image" src="https://github.com/user-attachments/assets/df92bbb5-2e38-45d5-8a58-492f35982c68" />
 
-```
 # Results
 ```
 Thus the simple Python program for the modulation and demodulation of PCM, and DM was successfully verified.
